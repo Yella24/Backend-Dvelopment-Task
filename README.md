@@ -1,4 +1,4 @@
-# Backend-Dvelopment-Task
+# Backend-Development-Task
 # User-age-api (Java / Spring Boot / MySQL)
 
 A small RESTful API in **Java 21 + Spring Boot 3 + Spring Data JPA + MySQL 8 + Hibernate Validator + SLF4J/Logback + Flyway** that manages users with `name` and `dob`, and returns a dynamically computed `age` on read endpoints.
